@@ -1,0 +1,22 @@
+{
+  "name": "karma-jasmine-extra-matchers",
+  "version": "1.0.0",
+  "description": "A Karma plugin to inject jasmine-extra-matchers",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "tomi77/karma-jasmine-extra-matchers",
+  "keywords": [
+    "karma",
+    "karma-jasmine",
+    "karma-plugin"
+  ],
+  "author": "Tomasz Jakub Rup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomi77/karma-jasmine-extra-matchers/issues"
+  },
+  "homepage": "https://github.com/tomi77/karma-jasmine-extra-matchers",
+  "dependencies": {
+    "jasmine-extra-matchers": "^0.2.2"
+  }
+}
