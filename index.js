@@ -50,7 +50,7 @@
      * @return {String}
      */
     function getLibPath() {
-      return require.resolve('jasmine-extra-matchers').replace('index.js', 'jasmine-extra-matchers.js');
+      return require.resolve('jasmine-extra-matchers');
     }
 
     // Init
