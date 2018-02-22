@@ -6,6 +6,8 @@
   "scripts": {},
   "repository": "tomi77/karma-jasmine-extra-matchers",
   "keywords": [
+    "jasmine",
+    "jasmine-matchers",
     "karma",
     "karma-jasmine",
     "karma-plugin"
